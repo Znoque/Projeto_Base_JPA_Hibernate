@@ -1,0 +1,1 @@
+insert into pessoa (id, nome, email) values (1, 'Ana', 'ana@gmail.com');
